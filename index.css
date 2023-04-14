@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Verdana&display=swap');
+
 body {
   margin: 0;
   text-align: center;
   background-color: #1b244a;
-  
 }
 
 .score {
@@ -23,7 +24,7 @@ button {
 }
 
 h3 {
-  font-family: 'Verdana';
+  font-family: 'Verdana', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
