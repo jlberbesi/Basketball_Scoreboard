@@ -1,0 +1,23 @@
+{
+  "name": "basketball_scoreboard",
+  "version": "1.0.0",
+  "description": "This application is designed to keep track of the score during a basketball game. It is created using HTML, CSS, and vanilla JavaScript. The app offers the functionality to add points to each team by simply clicking on the appropriate buttons. Additionally, users can update the current period of the game through the app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.27.5",
+    "hint": "^7.1.8",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
