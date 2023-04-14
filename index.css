@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #1b244a;
+  
+}
+
+.score {
+  background: #0a0001;
+  font-size: 90px;
+  color: #f94f6d;
+  width: 120px;
+  margin: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  background: none;
+}
+
+h3 {
+  font-family: 'Verdana';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 36px;
+  text-align: center;
+  color: #eee;
+}
